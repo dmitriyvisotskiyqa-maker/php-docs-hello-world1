@@ -1,0 +1,10 @@
+{
+    "name": "azure-samples/php-docs-hello-world",
+    "description": "Hello World PHP sample for Azure App Service",
+    "type": "project",
+    "require": {
+        "php": "^8.1"
+    },
+    "license": "MIT",
+    "minimum-stability": "stable"
+}
