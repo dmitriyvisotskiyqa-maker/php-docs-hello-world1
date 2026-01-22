@@ -32,4 +32,4 @@ try {
     error_log('Error de conexión PDO: ' . $e->getMessage());
     echo "Error al conectar con la base de datos: " . htmlspecialchars($e->getMessage());
     exit;
-}
+} 
