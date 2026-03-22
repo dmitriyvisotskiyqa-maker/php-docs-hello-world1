@@ -1,11 +1,6 @@
 <?php
-/*
-hostname=simple-crud-see.mysql.database.azure.com
-port=3306
-username=crudsee1
-password={your-password}
-ssl-mode=require*/
-$conn = new mysqli("simple-crud-see.mysql.database.azure.com", "crudsee1", "Devas@123", "crudsee1");
+
+$conn = new mysqli("fgdf", "dfgd", "Dedfgdvas@dfgdfg", "dfgdf");
 
 // Check connection
 if ($conn->connect_error) {
